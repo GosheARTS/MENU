@@ -21,13 +21,8 @@ body {
     border: 3px solid #2c2c2a;
 }
 
-.perfil h1 {
-    font-size: 22px;
-    margin: 0;
-}
-
-.nickname {
-    font-weight: normal;
+.nickname h1 {
+    font-weight: 200;
     color: #5f5e5a;
     font-size: 16px;
 }
