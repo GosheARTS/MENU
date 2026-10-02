@@ -1,0 +1,22 @@
+PROMPT 1: Utilizada la IA para indagar antes y optar por opciones para el desarrollo del proyecto antes de aplicar cambios directos.
+Segun mi pedido Original mejoro el Prompt con "mejores palabras" como se lo solicite.
+
+Rol: Actúa como un desarrollador frontend experto en HTML, CSS y JavaScript,
+ayudándome a diseñar la interfaz visual de un menú de proyectos para un curso
+de programación.
+
+Contexto: Este menú contendrá todos los proyectos que he desarrollado durante
+el curso KRAKEDEV, actualmente dos mini juegos (Juego Limones y Juego Cazando)
+ya publicados en Vercel. El menú debe funcionar como una página de presentación
+personal con enlaces a cada proyecto.
+
+Solicitud: Antes de generar código, propón un esquema visual del menú para
+validarlo conmigo. Una vez aprobado el esquema, genera el código completo
+(HTML y CSS) con:
+- Foto de perfil, mi nombre (Evan Chávez) y mi nickname (Goshe~ARTS)
+- El nombre del curso (KRAKEDEV)
+- Una descripción breve de los proyectos
+- Una tarjeta por cada juego, con una miniatura de vista previa, título,
+  descripción corta y un botón "Jugar" que enlace al proyecto publicado en Vercel
+- Estética minimalista: paleta reducida de colores, botones estilo píldora
+  con esquinas redondeadas, efecto hover suave
